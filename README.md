@@ -42,4 +42,4 @@
 ## 🛹 Fun Facts
 * I'm a Skateboarder snd Rock Climber
 * I love taking time to be outside in nature
-* 
+* I believe that mangoes are the superior fruit
