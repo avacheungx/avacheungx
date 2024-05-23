@@ -1,17 +1,20 @@
-## Hello there, I'm Juno! Welcome to my GitHub ✌🏼
+<p>
+<h1 align="center">Hi there, I'm Juno 🌸</h1>
+<h2 align="center">Welcome to my GitHub ✌🏼</h2>
+</p>
 
-#### *ahc9434@nyu.edu \| avacheung17@gmail.com*
-
-#### 
+### 🏔️ Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avacheung17/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/imnotjuno/)
+*ahc9434@nyu.edu \| avacheung17@gmail.com*
+
 
 ## 🌺 About Me
 
-* I am Computer Science and Web Programing and Applications student at NYU
-* I currently work in IT, specializing in audio visual, hardware,and software troubleshooting
-* I am a self-taught web developer
-* I am currently seeking opportunities to learn more frontend skills
+* I'm Computer Science and Web Programing and Applications student at NYU
+* I'm currently work in IT, specializing in audio visual, hardware,and software troubleshooting
+* I'm a self-taught web developer
+* I'm currently seeking opportunities to learn more frontend skills
 
 ## 🛠️ My Skills 
 
@@ -35,3 +38,8 @@
 ### Opertaing Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=white)
+
+## 🛹 Fun Facts
+* I'm a Skateboarder snd Rock Climber
+* I love taking time to be outside in nature
+* 
