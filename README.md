@@ -3,7 +3,7 @@
 <h2 align="center">Welcome to my GitHub ✌🏼</h2>
 </p>
 
-### 🏔️ Connect with Me
+## 🏔️ Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avacheung17/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/imnotjuno/)
 *ahc9434@nyu.edu \| avacheung17@gmail.com*
