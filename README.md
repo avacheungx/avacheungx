@@ -40,6 +40,6 @@
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=white)
 
 ## 🛹 Fun Facts
-* I'm a Skateboarder snd Rock Climber
+* I'm a Skateboarder and Rock Climber
 * I love taking time to be outside in nature
 * I believe that mangoes are the superior fruit
