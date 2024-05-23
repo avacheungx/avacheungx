@@ -1,4 +1,4 @@
-## Hello there, I'm Ava! Welcome to my GitHub ✌🏼
+## Hello there, I'm Juno! Welcome to my GitHub ✌🏼
 
 #### *ahc9434@nyu.edu \| avacheung17@gmail.com*
 
