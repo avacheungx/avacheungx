@@ -43,3 +43,11 @@
 * I'm a Skateboarder and Rock Climber
 * I love taking time to be outside in nature
 * I believe that mangoes are the superior fruit
+
+## 📈 Stats
+<a href="https://github.com/avacheungx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=avacheungx&show_icons=true&theme=dark&line_height=30" alt="Juno's GitHub Stats"/>
+</a>
+<a href="https://github.com/avacheungx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avacheungx&theme=dark">
+</a>
