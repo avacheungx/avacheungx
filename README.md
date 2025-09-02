@@ -13,8 +13,6 @@
 
 * I'm Computer Science and Web Programing and Applications student at NYU
 * I'm currently work in IT, specializing in audio visual, hardware, software and network troubleshooting
-* I'm a self-taught web developer
-* I 'm currently focused on developing projects that deepen my knowledge of networks, systems, and security.
 
 ## 🛠️ My Skills 
 
